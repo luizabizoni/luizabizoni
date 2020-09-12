@@ -6,15 +6,15 @@
 
 💗 Apaixonada por pesquisa, comunicação visual e compartilhar conhecimentos
 
-💻 Pós-graduanda em ciência de dados e big data e graduanda em análise e desenvolvimento de sistemas
+💻 Pós-graduanda em ciência de dados e big data, graduada em moda e técnica em computação gráfica
 
-✒️ 11 anos de experiência como designer gráfico
+✒️ 11 anos de experiência em design gráfico
 
 🔭 Desenvolvendo pesquisa em ciência de dados aplicada à economia política
 
 📚 Aprendendo R e Power BI
 
-💕 Voluntária em comunidades de apoio à mulheres e meninas na tecnologia organizando eventos e desenvolvendo peças gráficas.
+💕 Voluntária em comunidades de apoio à mulheres e meninas na tecnologia organizando eventos e desenvolvendo peças gráficas
 
 ⭐ Adoro ler romances policiais, nadar, desenhar, assistir documentários aleatórios e brincar com minha gatinha 🐱
 
