@@ -2,7 +2,7 @@
 
 ---
 
-🏢 Cientista de dados Jr
+🏢 Analista de Inteligência Comercial Jr
 
 💗 Apaixonada por pesquisa, comunicação visual e compartilhar conhecimentos
 
@@ -10,7 +10,7 @@
 
 ✒️ 11 anos de experiência em design gráfico
 
-🔭 Desenvolvendo pesquisa em ciência de dados aplicada à economia política
+🔭 Aspirante a palestrante de sucesso
 
 📚 Aprendendo R e Power BI
 
