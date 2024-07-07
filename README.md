@@ -1,25 +1,14 @@
-[![image](https://github.com/luizabizoni/luizabizoni/blob/master/luiza_bizoni_cover.png)](https://github.com/luizabizoni?tab=repositories)
+Acredito no potencial transformador da tecnologia para gerar impactos positivos no mundo. Como cientista de dados, minha missão é utilizar meu conhecimento para impulsionar a inovação e resolver problemas reais.💻🌎
+
+Constantemente em busca de aprendizado e atualização, procuro aplicar minha experiência e habilidades de forma criativa, desenvolvendo projetos de dados de ponta a ponta e promovendo uma cultura orientada por dados.📊
+
+Seja em iniciativas pessoais ou profissionais, meu dia a dia envolve compreender os objetivos e desafios do negócio, aplicando técnicas estatísticas e utilizando SQL, Python, Spark, Pandas, Numpy, Matplotlib e Seaborn para extrair, limpar, processar, analisar e visualizar grandes volumes de dados.📈
+
+Além disso, compreendo os fundamentos e aplicabilidade dos algoritmos de machine learning, incluindo regressão, classificação, clusterização, árvores de decisão, entre outros, sempre prezando pelo uso ético e responsável das informações e por identificar e aplicar as técnicas mais adequadas para cada contexto.👩‍💻
+
+Vamos tomar um cafezinho com pão de queijo enquanto batemos um papo sobre como transformar dados em soluções?☕💡
 
 ---
 
-🏢 Analista de Inteligência Comercial Jr
-
-💗 Apaixonada por pesquisa, comunicação visual e compartilhar conhecimentos
-
-💻 Pós-graduanda em ciência de dados e big data, graduada em moda e técnica em computação gráfica
-
-✒️ 11 anos de experiência em design gráfico
-
-🔭 Aspirante a palestrante de sucesso
-
-📚 Aprendendo R e Power BI
-
-💕 Voluntária em comunidades de apoio à mulheres e meninas na tecnologia organizando eventos e desenvolvendo peças gráficas
-
-⭐ Adoro ler romances policiais, nadar, desenhar, assistir documentários aleatórios e brincar com minha gatinha 🐱
-
----
-
-[![](https://img.shields.io/badge/blog-eebcc1)](https://dev.to/luizabizoni)
-[![](https://img.shields.io/badge/linkedin-9ed0d5)](https://www.linkedin.com/in/bizoniluiza/)
-[![](https://img.shields.io/badge/-badges-c59ed5?style)](https://www.youracclaim.com/users/luiza-bizoni/badges)
+[![](img.shields.io/badge/linkedin-0A66C2?logo=linkedin)](https://www.linkedin.com/in/bizoniluiza/)
+[![](/img.shields.io/badge/blog-olive?logo=medium)](https://www.luizabizoni.medium.com/)
